@@ -13,12 +13,12 @@
 
 ## 📊 Github Status
 <p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HadiRasouli1&show_icons=true&theme=radical" /> 
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=HadiRasouli1&show_icons=true&theme=tokyonight" /> -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AydinZarifie&show_icons=true&theme=radical" /> 
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AydinZarifie&show_icons=true&theme=tokyonight" /> -->
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=HadiRasouli1&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AydinZarifie&theme=tokyonight" />
   <br/>
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiRasouli1&theme=tokyonight" /> -->
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AydinZarifie&theme=tokyonight" /> -->
 </p>
 
 
